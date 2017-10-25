@@ -1,0 +1,31 @@
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### Eclipse IDE ###
+.checkstyle
+.classpath
+.project
+.settings
+bin/
+
+### Java ###
+.class
+.ear
+.jar
+.war
+
+### TestNG Report ###
+test-output/
+
+### Gradle ###
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+### Vagrant ###
+.vagrant
