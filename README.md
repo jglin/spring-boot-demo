@@ -1,1 +1,1 @@
-Demo of Spring Boot Application!!
+Demo of Spring Boot Application
